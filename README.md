@@ -4,10 +4,13 @@ A beginner-friendly **Solidity Voting DApp** that lets users vote for their favo
 This project is designed for those who are **new to blockchain development** and want to understand how **smart contracts**, **ownership control**, and **on-chain voting** work.
 
 ---
-
-
+    ## 🚀 Deployed Smart Contract
+   **Network:** Sepolia Testnet 
+  **Contract Address:** [0x1b1ecC57eF84c6e58A896BDE9454688B83C2E86E](https://celo-sepolia.blockscout.com/address/0x1b1ecC57eF84c6e58A896BDE9454688B83C2E86E)
+  
 <img width="1872" height="912" alt="image" src="https://github.com/user-attachments/assets/ca2368c3-7bd6-4169-a60d-a92937987e61" />
 
+---
 ## 🚀 Project Description
 
 The **SimpleVoting** smart contract provides a decentralized and tamper-proof voting mechanism built on the Ethereum blockchain.  
@@ -43,7 +46,6 @@ This project is ideal for learning:
 ## 🧠 Smart Contract Code
 
 ```solidity
-//paste your code
 
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.18;
