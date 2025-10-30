@@ -6,6 +6,7 @@ This project is designed for those who are **new to blockchain development** and
 ---
     ## 🚀 Deployed Smart Contract
    **Network:** Sepolia Testnet 
+   <br>
   **Contract Address:** [0x1b1ecC57eF84c6e58A896BDE9454688B83C2E86E](https://celo-sepolia.blockscout.com/address/0x1b1ecC57eF84c6e58A896BDE9454688B83C2E86E)
   
 <img width="1872" height="912" alt="image" src="https://github.com/user-attachments/assets/ca2368c3-7bd6-4169-a60d-a92937987e61" />
